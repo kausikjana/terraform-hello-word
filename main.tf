@@ -1,6 +1,6 @@
 # Configure the Google Cloud provider
 provider "google" {
-  project = "silent-thunder-256105"
+  project = "terraform-257005"
   region  = "us-east1-b"
 }
 
